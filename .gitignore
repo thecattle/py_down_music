@@ -10,4 +10,4 @@ target/
 .idea/
 /.DS_Store
 /velocity.log
-
+*.mp3
